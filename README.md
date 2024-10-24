@@ -1,2 +1,2 @@
 # Nuclear Energy Systems
-Repository for nuclear energy systems class
+Repository for nuclear energy systems
